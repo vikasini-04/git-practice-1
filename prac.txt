@@ -1,5 +1,3 @@
 hello from feature branch
-hello 
-hello 1234
 hello guys from main branch
 hello guys from feature branch
